@@ -1,0 +1,10 @@
+D:\CTI\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+D:\CTI\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+D:\CTI\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.Criptografia.resources
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+D:\CTI\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
